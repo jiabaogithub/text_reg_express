@@ -1,0 +1,6 @@
+*__pycache__/
+*.idea/
+iimg2/
+img_gen/
+*.pth
+*.h5
